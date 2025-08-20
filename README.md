@@ -1,6 +1,6 @@
-# LinkedIn AI Post Generator
+# LinkedIn Post Generator
 
-An autonomous LinkedIn post generation and management system powered by AI. This application helps professionals create, schedule, and optimize their LinkedIn content using advanced AI algorithms and analytics.
+An AI-powered LinkedIn post generation and management system that helps content creators automate their LinkedIn presence while maintaining their unique writing style.
 
 ## Features
 
@@ -90,7 +90,7 @@ If you want to use Supabase instead of mock data:
 
 ## Project Structure
 
-\`\`\`
+```
 ├── app/                    # Next.js app directory
 │   ├── api/               # API routes
 │   │   ├── generate-post/ # Post generation endpoint
@@ -110,7 +110,7 @@ If you want to use Supabase instead of mock data:
 │   ├── types.ts          # TypeScript type definitions
 │   └── mock-data.ts      # Sample data for development
 └── scripts/              # Database migration scripts
-\`\`\`
+```
 
 ## Usage Guide
 
@@ -301,3 +301,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Content approval workflows
 - [ ] Integration with other social platforms
 - [ ] Mobile app companion
+
+---
+
+## 📞 Contact
+
+### Get in Touch
+
+**Derrick Karanja** - Software Developer
+
+- 📧 **Email**: [derricks01.kk@outlook.com](mailto:derricks01.kk@outlook.com)
+- 💼 **LinkedIn**: [linkedin.com/in/derks01](https://linkedin.com/in/derks01)
+- 🐱 **GitHub**: [github.com/derksKCodes](https://github.com/derksKCodes)
+- 🌐 **My Portfolio**: [My Portfolio](https://my-portfolio-project-dk-jr.vercel.app/)
+
+### Project Links
+
+- 🌐 **Live Demo**: [my-portfolio-project-dk-jr.vercel.app/](https://my-portfolio-project-dk-jr.vercel.app/)
+- 📁 **Repository**: [github.com/derksKCodes/derrickportfolio.git](https://github.com/derksKCodes/derrickportfolio.git)
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you found it helpful!**
+
+Made with ❤️ by [Derrick](https://github.com/derksKCodes)
+
+</div>
